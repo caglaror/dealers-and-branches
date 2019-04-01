@@ -3,10 +3,10 @@ Dealers and Branches (DnB) coded for whom may need a list of own dealers or bran
 
 === Dealers And Branches===
 Contributors: caglaror
-Donate link: http://www.co-scripts.com
-Tags: Dealers and Branches, Dealers List, Braches List, List of Dealers
+Donate link: http://www.caglarorhan.com
+Tags: Dealers and Branches, Dealers List, Branches List, List of Dealers
 Requires at least: 4.6
-Tested up to: 4.7
+Tested up to: 5.1.1
 Stable tag: 4.3
 Requires PHP: 5.2.4
 License: GPLv2 or later
@@ -113,8 +113,8 @@ $arrayOfFields=array(
 = 0.1 =
 * A very first version.
 
-= 0.2 =
-* Minor debuggings.
+= 0.3 =
+* WP v5.1.1 compatibility tested
 
 == Upgrade Notice ==
-* Minor js bugs solved
+* WP v5.1.1 compatibility tested
